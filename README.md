@@ -1,4 +1,4 @@
-# PrestaShop-Newsman
+# PrestaShop1.6.0.9-Newsman
 [Newsman](https://www.newsmanapp.com) plugin for PrestaShop. Sync your PrestaShop customers / subscribers to Newsman list / segments.
 
 This is the easiest way to connect your Shop with [Newsman](https://www.newsmanapp.com).
